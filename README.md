@@ -1,4 +1,4 @@
-# BLOCKCHAIN Powered Reviews & Rewards System
+# BLOCKCHAIN POWERED SOLUTIONS FOR LANDSLIDES AND DISASTER MANAGEMENT
 * Implemented a DApp to create a platform for Disaster Management.
 
 #TEAM
