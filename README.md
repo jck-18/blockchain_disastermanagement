@@ -3,10 +3,10 @@
 
 #TEAM
 * KUSHAL SETH             - https://www.linkedin.com/in/sethkushal/
-* ABHAY CHATURVEDI        - 
-* POOJA SARIN             -
-* NAMAN MANCHANDA         - 
-<<Will update the links of team members, once they share >>
+* ABHAY CHATURVEDI        - <<Will update the links of team members, once they share >>
+* POOJA SARIN             - https://twitter.com/@sarinpooja_
+* NAMAN MANCHANDA         - https://twitter.com/NamanManchanda2
+
 
 # GitHub Page
   https://github.com/KushalGH/blockchain_disastermanagement
@@ -19,6 +19,7 @@
 
 # Inspiration:
 * Space Apps 2018
+    - http://www.spaceappindia.org
     - https://2018.spaceappschallenge.org/
     - https://twitter.com/spaceapps?lang=en
 
